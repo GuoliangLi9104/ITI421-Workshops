@@ -1,0 +1,25 @@
+li, p {
+    color: black;
+}
+
+ul li a{
+    color: brown;
+}
+ul.main > li> strong{
+    color: rgb(48, 99, 143);
+    background-color: rgb(37, 37, 94);
+    font: 5px;
+}
+
+p::first-letter{
+    font-size: 2vw;
+    color:rgb(255, 0, 0);
+}
+
+h1{
+    font-size: 10vh ;
+}
+
+p, li {
+    font-size: 1.5vw;
+}
